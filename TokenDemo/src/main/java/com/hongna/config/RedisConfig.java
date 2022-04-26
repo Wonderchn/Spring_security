@@ -1,6 +1,6 @@
-package hongna.config;
+package com.hongna.config;
 
-import hongna.utils.FastJsonRedisSerializer;
+import com.hongna.utils.FastJsonRedisSerializer;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.redis.connection.RedisConnectionFactory;

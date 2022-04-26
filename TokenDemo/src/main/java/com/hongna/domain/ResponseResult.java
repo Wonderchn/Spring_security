@@ -1,4 +1,4 @@
-package hongna.domain;
+package com.hongna.domain;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 
